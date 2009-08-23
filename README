@@ -1,0 +1,4 @@
+IgnoreAttributes
+================
+
+Adds a method `attr_ignore` to models that will let you ignore attributes that you might try to assign manually or via a params hash.
